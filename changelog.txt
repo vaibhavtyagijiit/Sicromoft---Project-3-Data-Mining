@@ -1,0 +1,25 @@
+Week 4:
+- Sentiment proeven uitgevoerd
+
+Week 5:
+- Onderzoek database aanmaken in R
+- Sentiment scripts toegevoegd in applicatie
+
+Week 6:
+- Onderzoek database in R
+- Database opgezet met package RMySQL
+- Steekproeven met package RMySQL
+
+Week 7:
+- Implementatie database in R
+- Tweets verzamelen en in database opslaan
+- Begin ontwerp van applicatie
+
+Week 8:
+- Bouwen van applicatie
+- Alle geslaagde geteste code in de applicatie gezet
+- UI en Server code aangepast
+- Extra functies toegevoegd
+- Onnodige code en commentaar weggehaald
+
+
